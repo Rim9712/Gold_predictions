@@ -30,8 +30,8 @@ Gold reached historic highs in Q3 2024. This thesis explores the **macroeconomic
 ## 🧠 Findings
 
 - 📌 **Main Drivers**: Inflation & interest rate cuts in 2024
-- 💡 **Best Model**: CNN-LSTM outperformed all other models with **R² = 0.9739**
+- 💡 **Best Model**: CNN-LSTM outperformed all other models
 - 📉 Random Forest, while decent, underperformed compared to GRU and ARIMA
-- 📈 Gold price strongly correlates with CPI, inversely with interest rates
+
 
 ---
